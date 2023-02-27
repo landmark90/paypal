@@ -3,3 +3,4 @@ simon
 diminion
 rose
 gideon
+manager
